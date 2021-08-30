@@ -5,10 +5,19 @@ body {
 h1 {
   color: grey;
   text-align: center;
+  text-decoration: underline;
 }
-
+h2 {
+  color: black;
+  text-align: center;
+  text-decoration: underline;
+}
 p {
   font-family: ariel;
   font-size: 20px;
-  ext-align: center;
+  border: 2px solid black;
+  padding: 30px;
+  margin: 20px;
+  text-align: center;
+  background-color: white;
 }

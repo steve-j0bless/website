@@ -11,6 +11,11 @@ h2 {
   color: black;
   text-align: center;
   text-decoration: underline;
+  font-size: 25px;
+}
+h3 {
+  color: black;
+  text-decoration: underline;
 }
 p {
   font-family: ariel;
@@ -20,4 +25,12 @@ p {
   margin: 20px;
   text-align: center;
   background-color: white;
+}
+ul {
+  font-family: ariel;
+  font-size: 20px;
+  border: 2px solid black;
+  padding: 30px;
+  margin: 20px;
+  background-color: grey;
 }

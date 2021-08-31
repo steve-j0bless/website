@@ -7,18 +7,21 @@ h1 {
   text-align: center;
   text-decoration: underline;
 }
+
 h2 {
   color: black;
   text-align: center;
   text-decoration: underline;
   font-size: 25px;
 }
+
 h3 {
   color: black;
   text-decoration: underline;
 }
+
 p {
-  font-family: ariel;
+  font-family: Arial;
   font-size: 20px;
   border: 2px solid black;
   padding: 30px;
@@ -26,11 +29,25 @@ p {
   text-align: center;
   background-color: white;
 }
+
 ul {
-  font-family: ariel;
+  font-family: Arial;
   font-size: 20px;
   border: 2px solid black;
   padding: 30px;
   margin: 20px;
   background-color: grey;
+}
+
+#div1 {
+  border: 2px;
+  margin: 20px;
+  background-color: white;
+  border-color: #FFFFFF;
+  border-style: solid;
+}
+.class1 {
+  color: black;
+  text-decoration: underline;
+  background-color: cyan;
 }
